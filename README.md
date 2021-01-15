@@ -5,7 +5,7 @@ Health Database system. Designed using visual paradigm and implemented using Ora
 
 heres the ERD created for this project:
 
-![alt text](https://github.com/[henhalpertt]/[HealthDB]/blob/[branch]/ERD.png?raw=true)
+![alt text](https://github.com/[henhalpertt]/[HealthDB]/blob/[main]/ERD.png?raw=true)
 
 
 
